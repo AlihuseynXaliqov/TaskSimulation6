@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\areas\\manage\\viewmodel\\agent\\updateagentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\areas\\manage\\viewmodel\\agent\\updateagentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\areas\\manage\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\areas\\manage\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\areas\\manage\\helpers\\mapper\\positionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\areas\\manage\\helpers\\mapper\\positionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\areas\\manage\\helpers\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\areas\\manage\\helpers\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\areas\\manage\\helpers\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\areas\\manage\\helpers\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|c:\\users\\smart\\source\\repos\\tasksimulation6\\tasksimulation6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECCD028B-7483-435A-B40A-026324B9EB9F}|TaskSimulation6\\TaskSimulation6.csproj|solutionrelative:tasksimulation6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PositionProfile.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Helpers\\Mapper\\PositionProfile.cs",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Areas\\Manage\\Helpers\\Mapper\\PositionProfile.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Helpers\\Mapper\\PositionProfile.cs",
+              "RelativeToolTip": "TaskSimulation6\\Areas\\Manage\\Helpers\\Mapper\\PositionProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:22:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Helpers\\Exception\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Areas\\Manage\\Helpers\\Exception\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Helpers\\Exception\\NotFoundException.cs",
+              "RelativeToolTip": "TaskSimulation6\\Areas\\Manage\\Helpers\\Exception\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:20:18.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NegativeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Helpers\\Exception\\NegativeIdException.cs",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Areas\\Manage\\Helpers\\Exception\\NegativeIdException.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Helpers\\Exception\\NegativeIdException.cs",
+              "RelativeToolTip": "TaskSimulation6\\Areas\\Manage\\Helpers\\Exception\\NegativeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:20:17.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateAgentVM.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\ViewModel\\Agent\\UpdateAgentVM.cs",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Areas\\Manage\\ViewModel\\Agent\\UpdateAgentVM.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\ViewModel\\Agent\\UpdateAgentVM.cs",
+              "RelativeToolTip": "TaskSimulation6\\Areas\\Manage\\ViewModel\\Agent\\UpdateAgentVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:18:53.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Areas\\Manage\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "TaskSimulation6\\Areas\\Manage\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:17:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Areas\\Manage\\Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Areas\\Manage\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "TaskSimulation6\\Areas\\Manage\\Controllers\\AgentController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:17:06.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskSimulation6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:17:00.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskSimulation6\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:15:24.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TaskSimulation6\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:15:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskSimulation6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation6\\TaskSimulation6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaskSimulation6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAO0AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:14:27.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
