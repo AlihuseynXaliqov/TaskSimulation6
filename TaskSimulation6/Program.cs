@@ -19,9 +19,12 @@ namespace TaskSimulation6
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
             });
 
+
             builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
             {
                 opt.Password.RequiredLength = 8;
+                opt.Password.RequireDigit = true;
+                opt.Password.RequireUppercase = true;
                 opt.Password.RequireNonAlphanumeric = true;
                 opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(3);
                 opt.Lockout.MaxFailedAccessAttempts = 3;
@@ -58,6 +61,7 @@ namespace TaskSimulation6
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapRazorPages();

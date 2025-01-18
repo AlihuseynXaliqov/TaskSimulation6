@@ -36756,6 +36756,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Agent\d2803c61-3f24-462d-9bc3-99be5198b0dbScreenshot (2).png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Agent\faf0c5e8-d222-4c92-a93e-e9eb46381b61download (23).jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TaskSimulation6</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TaskSimulation6</BasePath>
+      <RelativePath>Upload/Agent/faf0c5e8-d222-4c92-a93e-e9eb46381b61download (23).jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g3l8xzrv52</Fingerprint>
+      <Integrity>NEYKwEMt5hD4lCbzGg2fESSnaam62ZYDQWrTCkSJmSc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Agent\faf0c5e8-d222-4c92-a93e-e9eb46381b61download (23).jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\Agent\ff343670-f131-47a8-9d05-be3210f12818Screenshot 2023-05-09 124612.png'))">
       <SourceType>Package</SourceType>
       <SourceId>TaskSimulation6</SourceId>
